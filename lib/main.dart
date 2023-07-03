@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'This is public repo title'),
+      home: const MyHomePage(title: 'This is second branch title'),
     );
   }
 }
